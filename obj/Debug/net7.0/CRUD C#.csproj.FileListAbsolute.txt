@@ -1,0 +1,15 @@
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\bin\Debug\net7.0\CRUD C#.exe
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\bin\Debug\net7.0\CRUD C#.deps.json
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\bin\Debug\net7.0\CRUD C#.runtimeconfig.json
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\bin\Debug\net7.0\CRUD C#.dll
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\bin\Debug\net7.0\CRUD C#.pdb
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\obj\Debug\net7.0\CRUD C#.csproj.AssemblyReference.cache
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\obj\Debug\net7.0\CRUD C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\obj\Debug\net7.0\CRUD C#.AssemblyInfoInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\obj\Debug\net7.0\CRUD C#.AssemblyInfo.cs
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\obj\Debug\net7.0\CRUD C#.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\obj\Debug\net7.0\CRUD C#.dll
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\obj\Debug\net7.0\refint\CRUD C#.dll
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\obj\Debug\net7.0\CRUD C#.pdb
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\obj\Debug\net7.0\CRUD C#.genruntimeconfig.cache
+C:\Users\mahmo\OneDrive\Desktop\vscode\CRUD C#\obj\Debug\net7.0\ref\CRUD C#.dll
